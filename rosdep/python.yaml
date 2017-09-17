@@ -2569,6 +2569,9 @@ python-qwt5-qt4:
     raring: [python-qwt5-qt4]
     saucy: [python-qwt5-qt4]
     trusty: [python-qwt5-qt4]
+python-pyqtgraph:
+  ubuntu:
+    xenial: [pyqt5-dev, python-pyqt5, python-pyqt5.qtopengl, python-pyqtgraph, python-qt4-, python-qt4-gl-]
 python-rdflib:
   debian: [python-rdflib]
   fedora: [python-rdflib]
